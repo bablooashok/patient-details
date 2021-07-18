@@ -1,6 +1,6 @@
 import Patient from "./Patient";
 
-const Patients = ({ patients}) => {
+const Patients = ({ patients, search }) => {
   return (
     <>
       {patients.map((patient) => (

@@ -4,36 +4,36 @@
       "id": 1111,
       "name": "Harshith",
       "phone number": 9812444984,
-      "desease": "Heart Attack",
-      "conserned doctor": "Ravi"
+      "disease": "Heart Attack",
+      "conserned_doctor": "Ravi"
     },
     {
       "id": 1112,
       "name": "John Smith",
       "phone number": 9812446451,
-      "desease": "Feaver",
-      "conserned doctor": "Nirmala"
+      "disease": "Feaver",
+      "conserned_doctor": "Nirmala"
     },
     {
       "id": 1113,
       "name": "Jaswanth",
       "phone number": 9347589984,
-      "desease": "Cold",
-      "conserned doctor": "Noel"
+      "disease": "Cold",
+      "conserned_doctor": "Noel"
     },
     {
       "id": 1114,
       "name": "Aniruddh",
       "phone number": 7890123465,
-      "desease": "Cough",
-      "conserned doctor": "Geetha"
+      "disease": "Cough",
+      "conserned_doctor": "Geetha"
     },
     {
       "id": 1115,
       "name": "Jayanth",
       "phone number": 4358790234,
-      "desease": "Cancer",
-      "conserned doctor": "Venugopal"
+      "disease": "Cancer",
+      "conserned_doctor": "Venugopal"
     }
   ]
 }

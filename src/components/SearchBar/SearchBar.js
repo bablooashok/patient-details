@@ -6,7 +6,7 @@ function SearchBar(props) {
 
     return (
         <div className="search-bar">
-            <input type="search" name="course-search" id="search-input" placeholder="Search here" />
+            <input type="search" name="course-search" id="search-input" onChange ={props.search} placeholder="Search here" />
             <img  src={searchIcon} alt="search" />
         </div>
     );
